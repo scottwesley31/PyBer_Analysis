@@ -21,4 +21,9 @@ The opposite trend is seen in the Average Fare per Ride column; the rural type h
 ### Average Fare per Driver
 The same trend is captured in the Average Fare per Driver column as the Average Fare per Ride column; rural type has the largest average at $55.49, then suburban at $39.50, and lastly urban at $16.57. Even though the rural areas did not have a large quantity of drivers, thier overall average fare tended to be the highest likely again due to ride distance. Without data on ride distance; this is only an assumption.
 
+The ride-sharing data was grouped by both city type and date and then used to generate the following multiple-line chart which covers the four month period of 1/1/2019-4/28/2019:
+![Multiple_Line_Chart](https://user-images.githubusercontent.com/107309793/179510503-c50a3596-0062-40ea-98ba-4b511d8905ab.png)
+
+
+
 ## Summary
