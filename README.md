@@ -24,6 +24,31 @@ The same trend is captured in the Average Fare per Driver column as the Average 
 The ride-sharing data was grouped by both city type and date and then used to generate the following multiple-line chart which covers the four month period of 1/1/2019-4/28/2019:
 ![Multiple_Line_Chart](https://user-images.githubusercontent.com/107309793/179510503-c50a3596-0062-40ea-98ba-4b511d8905ab.png)
 
+Overall it's evident that the same trend is repeated; urban city types generate the largest values for fares, despite being spread out over 4 months. This is followed by the suburban and then the rural lines which sit below the urban line consecutively.
 
+The following table breaksdown the fare data by weekly amounts for each city type:
+![Weekly_DataFrame](https://user-images.githubusercontent.com/107309793/179642026-0d44f6b8-c7c4-45ac-9b98-6db20594370a.png)
+
+Breaking down the months:
+
+### 2019-01-06 to 2019-02-03
+Rural: increase from 187.92 to 333.08
+Suburban: increase from 721.60 to 1042.79
+Urban: increase from 1661.68 to 2086.94
+
+### 2019-02-03 to 2019-03-03
+Rural: Decrease from 333.08 to 175.14
+Suburban: Decrease from 1042.79 to 858.46
+Urban: Increase from 2086.94 to 2218.20
+
+### 2019-03-03 to 2019-04-07
+Rural: Increase from 175.14 to 501.24
+Suburban: Increase from 858.46 to 1010.73
+Urban: Increase from 2218.20 to 2356.70
+
+### 2019-04-07 to 2019-04-28
+Rural: Decrease from 501.24 to 191.85
+Suburban: Increase from 1010.73 to 1357.785
+Urban: Decrease from 2356.70 to 2238.29
 
 ## Summary
