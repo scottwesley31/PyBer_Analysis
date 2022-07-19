@@ -46,7 +46,7 @@ All 3 city types experienced an increase in total fares from January to February
 - **Suburban:** Decrease from 1042.79 to 858.46 (184.33 difference)
 - **Urban:** Increase from 2086.94 to 2218.20 (131.26 difference)
 
-Rural and suburban city types saw a general decrease in total fare from February to March ($157.94 and $184.33 drop respectively), while urban cities experienced a increase ($131.26). Interestingly, in reference to the multiple-line chart, the total urban city fares reached a maximum of $2466.29 leading up to the week of 2019-02-24. This may have been due to Valentine's Day being around this time.
+Rural and suburban city types saw a general decrease in total fares from February to March ($157.94 and $184.33 drop respectively), while urban cities experienced a increase ($131.26). Interestingly -in reference to the multiple-line chart- the total urban city fares reached a maximum of $2466.29 leading up to the week of 2019-02-24. This may have been due to Valentine's Day being around this time.
 
 #### 2019-03-03 to 2019-04-07
 - **Rural:** Increase from 175.14 to 501.24 (309.39 difference)
@@ -67,4 +67,4 @@ Both rural and urban cities saw a drop in total fares while suburban cities saw 
 ### 3 Recommendations
 1. If total fares are determined by miles driven, it might make sense to charge slightly more per mile for suburban or urban city types. This portion of the population makes up the bulk of the total revenue ($19,356.33 and $39,854.38 respectively). PyBer would profit a great deal from this per mile fare increase due to the high demand for both suburban and urban rides.
 2. Being that about mid-February to the start of April seems to be the peak time for the overall total fares, it might make help to increase the number of drivers employed at this time (assuming the cost of labor doesn't offset the profit margin too much).
-3. Consider collecting additional data to better understand the trends seen from January-April. Datasets involving the information about weather changes could provide insight as to how ride demands change based on weather. Ride types would also be helpful (i.e. commuting to work, going out, short trips, long trips, etc.). These categories could provide a better picture of when and why people are requesting PyBer services and how often they are.
+3. Consider collecting additional data to better understand the trends seen from January-April. Datasets involving the information about weather changes could provide insight as to how ride demands change based on weather. Data involving ride distances could also elucidate why some rides were more expensive than others. Ride types would also be helpful (i.e. commuting to work, going out, short trips, long trips, etc.). These categories could provide a better picture of when and why people are requesting PyBer services and how often they are.
