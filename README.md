@@ -8,7 +8,7 @@ An inital analysis was completed and presented on ride-sharing data provided by 
 ## Results
 ### Summary DataFrame
 The summary DataFrame resulting from analyzing all of the ride-sharing data by city type is as follows:
-![Summary_DataFrame](https://user-images.githubusercontent.com/107309793/179505711-fb48df28-5462-408d-90c3-cd05c41bf186.png)
+![Pyber_fare_summary](https://user-images.githubusercontent.com/107309793/179729218-8ba59698-26ae-47bd-99fb-33bb379ec5b2.png)
 
 Going through each column, the following conclusions can be made:
 #### Total Rides
