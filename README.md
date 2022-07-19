@@ -32,23 +32,31 @@ The following table breaksdown the fare data by weekly amounts for each city typ
 Breaking down the months:
 
 ### 2019-01-06 to 2019-02-03
-Rural: increase from 187.92 to 333.08
-Suburban: increase from 721.60 to 1042.79
-Urban: increase from 1661.68 to 2086.94
+- Rural: increase from 187.92 to 333.08 (145.16 difference) 
+- Suburban: increase from 721.60 to 1042.79 (321.19 difference)
+- Urban: increase from 1661.68 to 2086.94 (425.26 difference)
+
+All 3 city types experienced an increase in total faresfrom January to February, with urban cities having the largest increase of $425.26. Depending on where in the US this dataset originates, this may have been due to an increased need for rides due to inclement weather (such as snow).
 
 ### 2019-02-03 to 2019-03-03
-Rural: Decrease from 333.08 to 175.14
-Suburban: Decrease from 1042.79 to 858.46
-Urban: Increase from 2086.94 to 2218.20
+- Rural: Decrease from 333.08 to 175.14 (157.94 difference)
+- Suburban: Decrease from 1042.79 to 858.46 (184.33 difference)
+- Urban: Increase from 2086.94 to 2218.20 (131.26 difference)
+
+Rural and suburban city types saw a general decrease in total fare from February to March ($157.94 and $184.33 drop respectively), while urban cities experienced a increase ($131.26). Interestingly, in reference to the multiple-line chart, the total urban city fares reached a maximum of $2466.29 leading up to the week of 2019-02-24. This may have been due to Valentine's Day being around this time.
 
 ### 2019-03-03 to 2019-04-07
-Rural: Increase from 175.14 to 501.24
-Suburban: Increase from 858.46 to 1010.73
-Urban: Increase from 2218.20 to 2356.70
+- Rural: Increase from 175.14 to 501.24 (309.39 difference)
+- Suburban: Increase from 858.46 to 1010.73 (152.27 difference)
+- Urban: Increase from 2218.20 to 2356.70 (138.5 difference)
+
+All 3 city types experienced an increase in total fares from March to April. Interestingly, rural cities experienced a large increase leading into the week of 2019-04-07. This same pattern is seen for the urban cities as well. It's unclear what may have caused this spike. Improved weather perhaps? Of note, this month range is where the urban city types experienced the largest fluctuation in fares between weeks (high, then low, then high, then low, etc.).
 
 ### 2019-04-07 to 2019-04-28
-Rural: Decrease from 501.24 to 191.85
-Suburban: Increase from 1010.73 to 1357.785
-Urban: Decrease from 2356.70 to 2238.29
+- Rural: Decrease from 501.24 to 191.85 (309.39 difference)
+- Suburban: Increase from 1010.73 to 1357.75 (347.02 difference)
+- Urban: Decrease from 2356.70 to 2238.29 (118.41 difference)
+
+Both rural and urban cities saw a drop in total fares while suburban cities saw an a large increase ($347.02). It's also difficult to conclude why this trend may have happened at this time of year without additional data on external factors influencing ride demand.
 
 ## Summary
