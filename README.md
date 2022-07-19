@@ -27,6 +27,7 @@ The ride-sharing data was grouped by both city type and date and then used to ge
 Overall it's evident that the same trend is repeated; urban city types generate the largest values for fares, despite being spread out over 4 months. This is followed by the suburban and then the rural lines which sit below the urban line consecutively.
 
 The following table breaksdown the fare data by weekly amounts for each city type:
+
 ![Weekly_DataFrame](https://user-images.githubusercontent.com/107309793/179642026-0d44f6b8-c7c4-45ac-9b98-6db20594370a.png)
 
 Breaking down the months:
@@ -60,3 +61,8 @@ All 3 city types experienced an increase in total fares from March to April. Int
 Both rural and urban cities saw a drop in total fares while suburban cities saw an a large increase ($347.02). It's also difficult to conclude why this trend may have happened at this time of year without additional data on external factors influencing ride demand.
 
 ## Summary
+
+### 3 Recommendations
+1. If total fares are determined by miles driven, it might make sense to charge slightly more per mile for suburban or urban city types. This portion of the population makes up the bulk of the total revenue ($19,356.33 and $39,854.38 respectively). PyBer would profit a great deal from this per mile fare increase due to the high demand for both suburban and urban rides.
+2. Being that about mid-February to the start of April seems to be the peak time for the overall total fares, it might make help to increase the number of drivers employed at this time (assuming the cost of labor doesn't offset the profit margin too much).
+3. Consider collecting additional data to better understand the trends seen from January-April. Datasets involving the information about weather changes could provide insight as to how ride demands change based on weather. Ride types would also be helpful (i.e. commuting to work, going out, short trips, long trips, etc.). These categories could provide a better picture of when and why people are requesting PyBer services and how often they are.
